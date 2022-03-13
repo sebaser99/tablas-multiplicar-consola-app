@@ -1,0 +1,1 @@
+#info: En esta carpeta se guardan las salidas de los archivos txt. Peron no se suben a github
